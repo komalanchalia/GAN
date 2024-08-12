@@ -1,1 +1,1 @@
-# generate images of cat using GAN
+# Generate images of cat using GAN
